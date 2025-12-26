@@ -33,3 +33,10 @@ All screenshots related to rule creation, attack simulation, and alert detection
 
 ## Disclaimer
 This project was conducted in a controlled lab environment for educational purposes only.
+
+## SOC Analyst Perspective
+If these alerts were observed in a real SOC environment:
+- I would validate the source IP and alert frequency.
+- Correlate Snort alerts with firewall or SIEM logs.
+- Determine whether the activity is internal testing or external reconnaissance.
+- Escalate repeated or external scan attempts as a potential security incident.
