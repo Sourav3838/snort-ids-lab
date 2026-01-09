@@ -5,9 +5,9 @@ Snort IDS custom rule lab for detecting ICMP and TCP SYN scan attacks in a contr
 This project demonstrates how custom Snort IDS rules were created and tested to detect common network attacks such as ICMP ping scans and TCP SYN scans.
 
 ## Lab Setup
-IDS Host:-  Ubuntu with Snort running in IDS mode   
-Attacker:- Kali Linux  
-Tool:- Snort IDS  
+IDS Host:  Ubuntu with Snort running in IDS mode   
+Attacker: Kali Linux  
+Tool: Snort IDS  
 
 ## Procedure
 Snort was installed and configured on Ubuntu in IDS mode.  
